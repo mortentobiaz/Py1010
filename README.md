@@ -1,1 +1,1 @@
-# Dette er min besvarelse på arbeidskrav en i Py1010
+# Dette er min besvarelse på arbeidskrav EN i Py1010
